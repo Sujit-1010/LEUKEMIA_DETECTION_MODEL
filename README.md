@@ -1,2 +1,2 @@
-# LEUKEMIA_DETECTION_MODEL
-Model to detect blood cancer and it's stage. 
+# Leukemia-Detection-model
+Our model detect the diagnosis and stage of the cancer.
